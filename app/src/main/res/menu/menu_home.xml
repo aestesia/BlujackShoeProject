@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_top_selling"
+        android:title="Top Selling"
+        />
+    <item
+        android:id="@+id/menu_requested_order"
+        android:title="Requested Order"
+        />
+    <item
+        android:id="@+id/menu_our_location"
+        android:title="Our Location"
+        />
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Logout"
+        />
+</menu>
